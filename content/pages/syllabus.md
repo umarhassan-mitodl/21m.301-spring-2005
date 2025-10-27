@@ -4,8 +4,6 @@ description: Syllabus section contains the course description, and information a
   required texts for lecture, required sight-singing lab, required piano lab, daily
   assignments, quizzes, midterm exam, final project, and subject requirements and
   grade weights.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

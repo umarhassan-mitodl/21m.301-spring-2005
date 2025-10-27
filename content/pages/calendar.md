@@ -2,8 +2,6 @@
 content_type: page
 description: Calendar section contains the schedule for the topics, assignments and
   quizzes for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

@@ -4,8 +4,6 @@ description: This file contains the questions for exam preparation.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/80ce317683dda0f0c3ff7c777bfd6242_301exp_quesmusic.pdf
 file_size: 53294
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

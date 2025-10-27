@@ -2,8 +2,6 @@
 content_type: page
 description: Exams section contains various exams and quizzes done during the course
   to test the students understanding of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

@@ -4,8 +4,6 @@ description: This file contains the questions for pre test on music.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/3973335ab727d2b67bed1d03ac4c6f15_301_pre_test1.pdf
 file_size: 65934
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

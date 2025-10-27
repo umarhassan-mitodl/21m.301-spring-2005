@@ -4,8 +4,6 @@ description: This file contains the assignment for key, scale and intervals.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/1c211eed4e5995d42c701ee93de0a06e_asgnmnt2_continu.pdf
 file_size: 78095
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

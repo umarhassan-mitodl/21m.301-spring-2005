@@ -5,8 +5,6 @@ description: 'This file contains the questions for the topic: Scales, Intervals,
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/33fcf827f7a1b64f2266ad5282048624_quiz2.pdf
 file_size: 85244
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

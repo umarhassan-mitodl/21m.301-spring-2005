@@ -2,8 +2,6 @@
 content_type: page
 description: Study materials section contains various study materials provided to
   support the course assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

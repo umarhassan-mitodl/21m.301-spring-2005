@@ -4,8 +4,6 @@ description: This file contains the questions for intervals and triads.
 file: /courses/21m-301-harmony-and-counterpoint-i-spring-2005/be376a03abcf7b09e82cb35ce038a35f_quiz7_int_triads.pdf
 file_size: 66564
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
